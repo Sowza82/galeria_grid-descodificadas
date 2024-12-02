@@ -4,7 +4,9 @@ Este projeto é uma galeria de fotos simples de imagens de cachorros, criada com
 
 Este projeto é parte da **atividade de Grid** do curso **Descodificadas**, onde foi aplicado o uso do layout Grid para organizar as fotos de forma eficiente e responsiva.
 
-![Imagem da Galeria]("galeria html-css-js/imgs/galeriadogs.png").
+![Imagem da Galeria](galeria%20html-css-js/imgs/galeriadogs.png)
+
+
 
 
 
